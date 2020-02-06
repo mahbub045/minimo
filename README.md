@@ -1,3 +1,4 @@
 # minimo
 minimo html+css(for practices)
-https://mahbubrahman99.github.io/minimo/.
+https://mahbub099.github.io/minimo_html/
+
